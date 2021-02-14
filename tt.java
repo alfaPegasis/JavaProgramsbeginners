@@ -16,13 +16,6 @@ class tt
 
     }
     System.out.println("Reversed number is : "+reverse);
-    if (num==reverse)
-    {
-        System.out.println("It is a Palindrome Number ! ");
-    }
-    else
-    {
-        System.out.println("It is not a Palindrome Number ! ");
-    }
+    
 }
 }
