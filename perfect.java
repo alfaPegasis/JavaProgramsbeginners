@@ -11,6 +11,7 @@ class perfect
         {
             if (a%i==0)
             {
+
                 sum=sum+i;
             }
 
