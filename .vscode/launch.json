@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "JavaProgramsbeginners_ed60a198"
+        },
+        {
+            "type": "java",
             "name": "Launch niven",
             "request": "launch",
             "mainClass": "niven",
