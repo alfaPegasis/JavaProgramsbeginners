@@ -9,9 +9,13 @@ class salarycoders
         switch(name)
         {
             case "Katia": salary=1000;
+                break;
             case "CSJack": salary=4000;
+                break;
             case "Tim": salary=3000;
+                break;
             case "Qazi": salary=2000;
+                break;
             default:
             System.out.println("No coder available for that name.");
             
