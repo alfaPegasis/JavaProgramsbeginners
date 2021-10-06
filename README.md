@@ -16,4 +16,6 @@ This repository is for class 9th ICSE Java Programs at biginner level for practi
 7.Pythagorean Triplet
 <br>
 8. Sum of first 50 positive even integers
+<br>
+9. Pattern printing
 
