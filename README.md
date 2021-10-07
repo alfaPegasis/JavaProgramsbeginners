@@ -1,5 +1,5 @@
 # JavaProgramsbeginners
-This repository is for class 9th ICSE Java Programs at biginner level for practice.
+This repository is for class 9th ICSE Java Programs at beginner level for practice.
 <br>
 1.Fibonacci Number
 <br>
