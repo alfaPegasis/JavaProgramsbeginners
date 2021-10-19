@@ -22,3 +22,5 @@ This repository is for class 9th ICSE Java Programs at beginner level for practi
 10. Bubble Sort Algorithm
 <br>
 11. Selection Sort Algorithm
+<br>
+12. Linear Search
