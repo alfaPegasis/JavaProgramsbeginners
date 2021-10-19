@@ -24,3 +24,5 @@ This repository is for class 9th ICSE Java Programs at beginner level for practi
 11. Selection Sort Algorithm
 <br>
 12. Linear Search
+<br>
+13. Binary Search 
