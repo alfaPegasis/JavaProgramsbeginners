@@ -20,3 +20,5 @@ This repository is for class 9th ICSE Java Programs at beginner level for practi
 9. Pattern printing
 <br>
 10. Bubble Sort Algorithm
+<br>
+11. Selection Sort Algorithm
