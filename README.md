@@ -18,4 +18,5 @@ This repository is for class 9th ICSE Java Programs at beginner level for practi
 8. Sum of first 50 positive even integers
 <br>
 9. Pattern printing
-
+<br>
+10. Bubble Sort Algorithm
