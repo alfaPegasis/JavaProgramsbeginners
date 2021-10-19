@@ -31,4 +31,4 @@ This repository is for class 9th ICSE Java Programs at beginner level for practi
 <br>
 15. Sum of Digits
 <br>
-16. Sum of natural laguage
+
