@@ -26,3 +26,12 @@ public class MyClass {
      
     }
 }
+//OUTPUT IS
+// 72 = 3*4
+// Not found
+// 62 = 0*6
+// Not found
+// 6570 = 1*2
+// Not found
+// 13440 = 4*5
+// Not found
