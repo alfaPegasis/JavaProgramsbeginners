@@ -35,4 +35,5 @@ This repository is for class 9th ICSE Java Programs at beginner level for practi
 <br>
 17. String to integer
 <br>
-18. Paridome
+18. Insertion Sort
+<br>
