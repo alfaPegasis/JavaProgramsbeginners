@@ -1,41 +1,25 @@
 # JavaProgramsbeginners
-![JavaProgramsbeginners](https://socialify.git.ci/alfaPegasis/JavaProgramsbeginners/image?language=1&name=1&owner=1&pattern=Charlie%20Brown&theme=Dark)
-### Programs
+![JavaProgramsbeginners](https://socialify.git.ci/alfaPegasis/JavaProgramsbeginners/image?language=1&name=1&owner=1&pattern=Charlie%20Brown&theme=Dark)<br>
+## Programs
 This repository is for class 9th ICSE Java Programs at beginner level for practice.
-<br>
 1. Fibonacci Number
-<br>
 2. Palindrome Number
-<br>
 3. Perfect Number
-<br>
-4. Niven Number 
-<br>
+4. Niven Number
 5. Factorial of a Number 
-<br>
 6. Reverse of a Number 
-<br>
 7. Pythagorean Triplet
-<br>
 8. Sum of first 50 positive even integers
-<br>
 9. Pattern printing
-<br>
 10. Bubble Sort Algorithm
-<br>
 11. Selection Sort Algorithm
-<br>
 12. Linear Search
-<br>
 13. Binary Search 
-<br>
 14. Armstrong Number
-<br>
 15. Sum of Digits
-<br>
 16. Sum of Natural Numbers
-<br>
 17. String to integer
-<br>
 18. Insertion Sort
-<br>
+19. Queue
+20. Linked List
+
