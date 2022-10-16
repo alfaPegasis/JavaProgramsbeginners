@@ -22,4 +22,5 @@ This repository is for class 9th ICSE Java Programs at beginner level for practi
 18. Insertion Sort
 19. Queue
 20. Linked List
+21. Merge Sort
 
